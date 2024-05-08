@@ -1,2 +1,3 @@
-# playground-github-actions
-Playground for practicing GitHub actions
+# Playground for Github Actions
+
+Experiment with GitHub Actions (on public GitHub Platform)
